@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "vgames", "vgames\vgames.dtproj", "{8C349A08-CA6B-4D5E-956E-6BABD15A5DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C349A08-CA6B-4D5E-956E-6BABD15A5DAC}.Development|Default.ActiveCfg = Development
+		{8C349A08-CA6B-4D5E-956E-6BABD15A5DAC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9976399-BA44-4793-B1DC-4236ABC89E88}
+	EndGlobalSection
+EndGlobal
